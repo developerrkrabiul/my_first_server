@@ -1,0 +1,40 @@
+{
+    "products":[
+        {
+            "id"     :1,         
+            "price":25000,
+            "photo":"https://static.digit.in/product/thumb_160958_product_td_300.jpeg?tr=w-1200"
+           
+        }   
+    ],
+    "catagory"  : [
+        { 
+          "id"   :  "size",
+          "M"    : "M" 
+           
+          }
+    ],
+    "brand":[
+        {
+            "id"       : "barnd",
+            "Name":"oppo",
+            "Red"     : "#ff0000"   
+        }
+    ],    
+    "devs":[
+        {
+            "photo":"https://wpbeaveraddons.com/wp-content/uploads/2017/06/t1-2.png",
+            "id":1,
+            "name":"shakil",          
+            "skill":"java developer"
+        }     
+    ],
+    "student":[
+        {
+            "photo":"https://wpbeaveraddons.com/wp-content/uploads/2017/06/t1-2.png",
+            "id":1,
+            "name":"shakil",
+            "roll":1         
+        }      
+    ]
+  }
